@@ -5,15 +5,15 @@
 
     <h2>Chapter 3 </h2>
     <script>
-        let age = 40;
+        let age = 24;
         alert("I am " + age + " years old")
 
         let N = 14
         alert("you have visited this site " + N + " times")
-        let birthyear = 1983
+        let birthyear = 1999
         document.write("My Birth Year is " + birthyear)
 
-        let customername = "Humera"
+        let customername = "Hira"
         let product = "perfumes"
         let quantity = 5
         document.write(" " + customername + " ordered" + " " + quantity + " " + product + " " + "From XYZ Company")
